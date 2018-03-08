@@ -1,2 +1,0 @@
-Successfully create!
-Successfully edit!
